@@ -4,3 +4,9 @@
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/ctags"]
+	path = bundle/ctags
+	url = https://github.com/universal-ctags/ctags.git
