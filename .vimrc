@@ -9,9 +9,6 @@ set backspace=indent,eol,start
 set ts=4
 set expandtab
 
-imap <F6> <C-x><C-o>
-nmap <F8> :TagbarToggle<CR>
-
 "used for c
 set autoindent
 set cindent
