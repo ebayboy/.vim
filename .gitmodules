@@ -9,4 +9,7 @@
 	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "bundle/ctags"]
 	path = bundle/ctags
-	url = https://github.com/universal-ctags/ctags.git
+    url = https://github.com/universal-ctags/ctags.git
+[submodule "bundle/Vundle.vim"]
+	path = bundle/Vundle.vim
+    url = https://github.com/VundleVim/Vundle.vim.git
