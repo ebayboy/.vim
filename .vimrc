@@ -1,3 +1,17 @@
+
+set nocompatible 
+filetype off  
+
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'vim-scripts/luainspect.vim'
+Plugin 'xolox/vim-misc'
+Plugin 'xolox/vim-lua-ftplugin'
+
+call vundle#end()
+
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
